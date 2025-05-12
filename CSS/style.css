@@ -1,0 +1,19 @@
+body{
+font-size: 16px;
+font-family: 'Lucida Sans';
+
+}
+
+h1{
+    font-size: 16px;
+    color: red;
+}
+p{
+    font-size: 1,2em;
+    color: blue;
+}
+
+.special{
+    color: brown;
+
+}
